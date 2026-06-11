@@ -338,10 +338,3 @@ Focuses on:
 
 Combining both creates a complete architecture for discoverable, interoperable, and scalable enterprise agent ecosystems.
 
-For an AI Architect portfolio, this MCP Registry + A2A integration is the most compelling story across your repositories because it demonstrates three advanced concepts simultaneously:
-
-1. **Agent discovery** (MCP Resources).
-2. **Agent interoperability** (A2A AgentCards and protocol).
-3. **Dynamic service registration** (runtime onboarding/offboarding of agents).
-
-Those are exactly the patterns currently emerging in enterprise agent platforms and Azure AI Foundry ecosystems.
